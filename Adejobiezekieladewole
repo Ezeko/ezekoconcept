@@ -1,0 +1,110 @@
+<!Doctype html>
+<html lang="en-us">
+<meta charset="UTF-8">
+
+	<meta name = "viewport" content="width=device-width, initial-scale=1.0">
+
+
+<title>ADEJOBI EZEKIEL ADEWOLE</title>
+
+
+<head><div style=" text-align:center">
+<a href ="https://www.github.com/ezeko94/adejobiezekieladewole" style = "color:brown;">ADEJOBI EZEKIEL ADEWOLE</a></div>
+	<style>
+#menu ul{list-style:none;}
+    	#menu li{display: inline; background-color:powderblue;}
+
+
+    	@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
+}
+/* For desktop: */
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+
+
+    </style>
+
+
+<marquee behavior="scroll" bgcolor="grey" <i><font color="blue"><strong>WELCOME TO MY PAGE!!!!</strong></font></marquee>
+	<script type="text/javascript">
+	var today=new Date();
+	document.write(today);	
+	</script> <img src ="programming.GIF"; alt="programmer"> <br>
+	<div id ="menu" border="thick">
+<ul style= "background-color: blue; text-align: right;"><li><a href="";>HOME</li></a> <li id = "about"><a href="#about"> About</li></a> <li id = "contact"> <a href="#contact"> Contact</li></a>
+  </ul>
+</div></li></head>
+
+
+<body>
+<Home>
+<img src = "img_notebook.png"; alt = "notebook" style="width:100%;height:100%""><br/><hr>
+</Home>
+<div style = "background-color: #00ffff;">
+
+  <about >
+<div class ="col-12">
+  <h2 style = "color: violet;">About</h2>
+	<h3> I am a microbiologist in the making, a lover of codes and a tech enthusiast. <q>Learning is a everyday thing, I always do to improve.</q> <b> Adding value is essential as it is too late to prepare when opportunities come. </b>
+	 I am a programmer, a website designer with the knowledge of but not limited to :<br/><br></h3></div>
+	<figure>	<div class = "image1234"; style="white-space: 40%; align-content: center;">
+		<img src ="html5.GIF"; alt="HTML5"; weight="100%"; align="center" height="100%";><caption>HTML5</caption><img src = "Oficina-HTML2-icon-128.png"; alt="HTML" weight="100%"; align="center" height="100%";><caption>HTML</caption>  <img src ="css-icon-256.png" weight = "220px"; align="center" ; 
+	height = "120px";><caption>CSS</caption>  <img src ="js-512.png"; align="center" ; weight = 100px; height ="100px;"><caption> JAVASCRIPT</caption><br><br></div>
+
+</figure>
+		<div style = "text-align:center">
+
+		<strong><h2> What I can do for you</h2></strong>
+	<ul>
+	<li> Design Responsive website with the use of <b>html, css, and javascript.</b></li><br>
+	<li> Teach you website design in the simplest way.
+	</li><br>
+	<li> Attend to issues relating to <b>Microbiology</b></li><br>
+	<li> Front-end website design.</li><br>
+	<li> Advertise your goods and services</li>
+	</ul></div>
+	<div style ="text-align:right"> 
+</div>
+</about><hr/>
+</div>
+
+<div class = "row well center">
+
+
+<div style="background-color:#ff00ff;">
+
+
+		<contact><h2 class="page-header">Contact me</h2>
+		<a href = "http://www.facebook.com/adejobi.ezekiel"><img src= "if_facebook_287801.png" width ="60px"; height="40px"></a>
+		<a href = "http://www.twitter.com/ezeko94"><img src= "if_twitter_313075-1.png" width ="60px"; height="40px"></a>
+		<a href = "http://ng.linkedin.com/in/ezekiel-adejobi-11212a124">linkedin</a> 
+	<img src= "if_whatsapp_386747.png" width ="60px"; height="40px"></i><em> +2347068006837</a>
+		<img src= "Hardware-My-Phone-OFF-icon-256.png" width ="60px"; height="40px"> +2347068006837</a>
+</contact></em><br /><hr /></div>
+
+
+<div style = " text-align: center;"> 
+<a href = ""> Back to top</a><br>
+</div>
+
+
+<footer>
+<address style = "background-color: lightgreen;text-align: center;"><b style="font-family: sans-serif;">ADEJOBI EZEKIEL </b>
+| &copy 2017 | <b>Your happiness is my happiness; <strong>quality</strong> is my utmost concern . Don't forget to add value...</b> 
+ All rights reserved.<br /> Written by <strong style="font-family: cursive;">Ezekoconcept 07068006837</strong> <br></address></footer>
+</body></html>
